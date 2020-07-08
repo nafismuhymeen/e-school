@@ -1,0 +1,102 @@
+.head-bg-color{
+    background-color: #F0FFF0;
+}
+.nav-link{
+    font-weight: 500;
+}
+#sign-in{
+    background-color: #21B573;
+    color: white;
+    padding: 7px 22px;
+    border-radius: 33px;
+    text-decoration: none;
+}
+.get-started{
+    background-color: #21B573;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 33px;
+    font-weight: 600;
+    
+}
+.head-item{
+    margin-top: 63px;
+    margin-bottom: 63px;
+}
+#head-h1-color{
+    color: #21B573;
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 16px;
+}
+.mid-section-card-img-top{
+    width: max-content;
+    margin-top: 54px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mid-section-card{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.mid-section{
+    margin-top: 42px;
+}
+.mid-section-card-body{
+    text-align: center;
+}
+.mid-section-card:hover{
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.card-title h5{
+    font-size: 24px;
+}
+.card-text p{
+    font-size: 16px;
+}
+.card-online-course{
+    border-radius: 18px;
+}
+.col-md-2 li{
+    color: white;
+    list-style: none;
+    
+}
+.col-md-2 ul{
+    margin-top: 55px;
+}
+.nav-item{
+    margin-right: 20px;
+}
+form{
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    font-size: 36px; 
+    text-align: center; 
+    font-weight: bold; 
+    margin-bottom: 62px;
+}
+.img-online-course{
+    width: 331px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 12px;
+}
+.buy-course{
+    margin-top: 19px;
+    padding: 8px 28px;
+    border-radius: 33px;
+    font-weight: 600;
+    background-color: #21B573;
+    color: white;
+}
